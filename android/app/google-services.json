@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946747128307",
+    "project_id": "onlinecoaching-a6237",
+    "storage_bucket": "onlinecoaching-a6237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946747128307:android:75ae81e09a90a554fa7a86",
+        "android_client_info": {
+          "package_name": "com.example.onlineteaching"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjSSYxHhTe9z05CQUPFk5RgREW8-d2c6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
